@@ -1,2 +1,2 @@
-# MRI_Brain_Tumor_Detection
+# MRI_Brain_Tumor_Detection in MATLAB
 MRI_Brain_Tumor_Detection
